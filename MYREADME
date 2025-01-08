@@ -1,0 +1,27 @@
+# Projeto Podcast Gerado por I.A.s
+
+
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso realizado na plataforma [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [LeonardoAI](https://app.leonardo.ai/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Descript](https://www.descript.com)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- LeonardoAI para gerar capas
+- Discript para tratar áudio e adicionar sons de fundo
+
+## 📚 Materiais
+
+- Prompts conforme [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+ - Imagem gerada em capa_podcast 
+ - Podcast gerado durante as aulas em Podcast
